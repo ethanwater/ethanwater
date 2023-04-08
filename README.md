@@ -1,5 +1,3 @@
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethanwater&theme=github" />
-  </a>
-</div>
+<p align="center">
+  <img src="tumblr_o3uw4a3S1j1tivim4o1_r1_400-2570814683.gif" alt="animated" />
+</p>
